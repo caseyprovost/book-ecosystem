@@ -84,3 +84,18 @@ The *Publisher Registry* serves as a kind of "rolla-dex" of publisher informatio
 * Rails API
 * GraphQL
 * Docker
+
+
+## Store Front
+
+The *Store Front* is the where users interact with the Book Ecosystem. They can view products, search products, place orders, and various other basic e-commerce functions.
+
+* [docs](https://github.com/caseyprovost/store_front)
+* [UI/App](https://ruby-store-front.herokuapp.com/)
+
+#### Tech Stack:
+
+* React
+* Apollo
+* TypeScript
+* Tailwind C
